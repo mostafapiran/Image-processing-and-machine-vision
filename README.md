@@ -160,7 +160,11 @@ We acknowledge the open-source community and the contributors to OpenCV, which m
 ---
 # Project - [#4_stereo matching](https://github.com/mostafapiran/Image-processing-and-machine-vision/tree/main/%234_stereo%20matching)
 ---
-
+<p align="center">
+ <img src="https://github.com/mostafapiran/Image-processing-and-machine-vision/blob/main/%234_stereo%20matching/depth.png">
+ <img src="https://github.com/mostafapiran/Image-processing-and-machine-vision/blob/main/%234_stereo%20matching/imL.png">
+ </p>
+ 
 # Stereo Depth Map Generation using Block Matching
 
 ## Introduction
