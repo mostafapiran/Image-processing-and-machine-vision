@@ -106,6 +106,10 @@ We acknowledge the open-source community and the contributors to OpenCV and SciP
 # Project - [#3_ferquency matching-matchTemplate](https://github.com/mostafapiran/Image-processing-and-machine-vision/tree/main/%233_ferquency%20matching-matchTemplate)
 ---
 
+<p align="center">
+ <img src="./#3_ferquency matching-matchTemplate/4.JPG">
+</p>
+
 # Template Matching in Python using OpenCV
 
 ## Introduction
