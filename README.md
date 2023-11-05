@@ -3,6 +3,9 @@
 
 # Project - [#1_canny](https://github.com/mostafapiran/Image-processing-and-machine-vision/tree/main/%231_canny)
 ---
+<p align="center">
+ <img src="./#1_canny/2.JPG">
+</p>
 
 # Canny Edge Detection in Python using OpenCV and SciPy
 
