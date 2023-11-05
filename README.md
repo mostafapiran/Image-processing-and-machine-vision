@@ -5,7 +5,8 @@
 ---
 
 <p align="center">
- <img src="./#1_canny/2.JPG">
+ <img src="https://github.com/mostafapiran/Image-processing-and-machine-vision/blob/main/%231_canny/2.png">
+
 </p>
 
 # Canny Edge Detection in Python using OpenCV and SciPy
@@ -107,7 +108,7 @@ We acknowledge the open-source community and the contributors to OpenCV and SciP
 ---
 
 <p align="center">
- <img src="./#3_ferquency matching-matchTemplate/4.JPG">
+ <img src="https://github.com/mostafapiran/Image-processing-and-machine-vision/blob/main/%233_ferquency%20matching-matchTemplate/4.png">
 </p>
 
 # Template Matching in Python using OpenCV
